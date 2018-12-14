@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://192.168.72.128:27017/runoob
+#设置密码的写法spring.data.mongodb.uri=mongodb://name:pass@localhost:27017/dbname
+#不设置密码的写法spring.data.mongodb.uri=mongodb://localhost:27017/springboot-db

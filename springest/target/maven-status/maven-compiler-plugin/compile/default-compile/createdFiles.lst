@@ -1,0 +1,5 @@
+com\golaxy2\BookService.class
+com\golaxy2\Book.class
+com\golaxy2\BookServiceImpl.class
+com\golaxy2\BookRepository.class
+com\golaxy2\Startup.class

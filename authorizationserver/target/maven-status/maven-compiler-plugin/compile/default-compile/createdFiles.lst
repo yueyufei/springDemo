@@ -1,0 +1,6 @@
+com\golaxy\authorizationConfig\OAuth2ServerConfig$ResourceServerConfiguration.class
+com\golaxy\authorizationConfig\OAuth2ServerConfig$AuthorizationServerConfiguration.class
+com\golaxy\controlllers\TestEndpoint.class
+com\golaxy\authorizationConfig\SecurityConfiguration.class
+com\golaxy\authorizationConfig\OAuth2ServerConfig.class
+com\golaxy\Application.class

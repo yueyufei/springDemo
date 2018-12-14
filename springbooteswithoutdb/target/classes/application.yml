@@ -1,0 +1,12 @@
+server:
+  port: 19701
+spring:
+  data:
+    elasticsearch:
+      cluster-name: zktj-jrsearch
+      cluster-nodes: 10.120.17.63:19700
+#elasticsearch:
+#      properties:
+#        ip: 10.120.17.63
+#        port: 19700
+#        cluster-name: zktj-jrsearch

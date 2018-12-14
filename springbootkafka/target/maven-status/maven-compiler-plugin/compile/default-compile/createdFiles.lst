@@ -1,0 +1,5 @@
+com\golaxy\kafkademo\Consumer.class
+com\golaxy\kafkademo\KafkaProducerConfig.class
+com\golaxy\kafkademo\KafkaConsumerConfig.class
+com\golaxy\kafkademo\Application.class
+com\golaxy\kafkademo\Producer.class

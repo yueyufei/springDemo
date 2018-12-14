@@ -1,0 +1,4 @@
+com\golaxy\RedisObjectSerializer.class
+com\golaxy\User.class
+com\golaxy\RedisConfig.class
+com\golaxy\Application.class
